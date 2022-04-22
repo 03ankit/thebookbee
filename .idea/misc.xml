@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/user/app/src/main/res/drawable/avd.xml" value="0.1435" />
+        <entry key="..\:/user/app/src/main/res/layout/activity_category.xml" value="0.536" />
+        <entry key="..\:/user/app/src/main/res/layout/activity_main2.xml" value="0.6" />
+        <entry key="..\:/user/app/src/main/res/layout/activity_main3.xml" value="0.6965317919075145" />
+        <entry key="..\:/user/app/src/main/res/layout/activity_regester.xml" value="0.6" />
+        <entry key="..\:/user/app/src/main/res/layout/activity_signin.xml" value="0.6" />
+        <entry key="..\:/user/app/src/main/res/layout/activity_thrillerr.xml" value="0.6" />
+        <entry key="..\:/user/app/src/main/res/layout/comic.xml" value="0.536" />
+        <entry key="..\:/user/app/src/main/res/layout/scifi.xml" value="0.6" />
+        <entry key="..\:/user/app/src/main/res/layout/thriller.xml" value="0.536" />
+        <entry key="..\:/user/user/app/src/main/res/layout/activity_category.xml" value="0.12158054711246201" />
+        <entry key="..\:/user/user/app/src/main/res/layout/activity_main3.xml" value="0.25" />
+        <entry key="..\:/user/user/app/src/main/res/layout/activity_signin.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK" />
+</project>
